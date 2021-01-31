@@ -1,4 +1,4 @@
-title: Simple Bash Template
+title: Conditional Rename using Bash
 plan:
 - title: Bash Snippet
   statement: statement.md
